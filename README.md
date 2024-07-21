@@ -1,5 +1,10 @@
-## Hi there 👋
+## 你好
+歡迎來到我的github，我會在這存放一些課程或是專題程式，作為版本控制雲端備份。
 
+我比較常寫 Python和C/C++語言，使用python在YOLO影像辨識、Openpose、Intel深度相機、OpenCV影像處理。
+C/C++使用在課堂遊戲製作、物件導向程式設計、專題機械手臂、Qt圖形化介面。
+
+歡迎參觀!
 <!--
 **yencheng1028/yencheng1028** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
